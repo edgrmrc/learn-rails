@@ -189,13 +189,13 @@ PLATFORMS
 DEPENDENCIES
   bootsnap (>= 1.1.0)
   byebug
-  capybara (>= 2.15, < 4.0)
+  capybara (>= 2.15)
   chromedriver-helper
   coffee-rails (~> 4.2)
   duktape
   jbuilder (~> 2.5)
   puma (~> 3.11)
-  rails (~> 5.2.0)
+  rails (~> 5.2.2)
   sass-rails (~> 5.0)
   selenium-webdriver
   sqlite3
